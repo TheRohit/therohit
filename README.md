@@ -7,21 +7,21 @@
 [![Instagram](https://img.shields.io/badge/-rohitmhere-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/rohitmhere/)
 
 
-I am Rohit Meshram 😃. I am from Navi Mumbai, India and currently doing my B.E from Ramrao Adik Institute of Technology 🏫.I love to explore and learn about new things.
+I am Rohit Meshram 😃. I am from Navi Mumbai, India. 23' Grad from Ramrao Adik Institute of Technology 🏫.I love to explore and learn about new things.
 ## 👯 Communities
 * coders of XDA OT
-* Github developer community
+* Github Developer Community
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **HTML, Javascript,CSS,Bootstrap, React**
+- Fullstack development using **React.js, Next.js**
 - Backend development using **Nodejs**
 - Robust full-stack system design implementation
-- Solving Data structure and algorithm questions in **Java and C++**
+- Solving Data structure and algorithm questions in **Java**
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
-- 🎯 Portfolio site: [Portfolio](https://rohitmhere.me/)
+
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
-- (Template Credits: @arghya-007) 
+
 <a href="https://github.com/TheRohit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRohit&theme=dark&hide_langs_below=1" />
 </a>
