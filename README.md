@@ -3,4 +3,4 @@
 *I am a Frontend Developer.*
 
 ![](https://komarev.com/ghpvc/?username=therohit&color=blue)
-[![Twitter Follow](https://img.shields.io/twitter/follow/s0md3v?style=social)](https://twitter.com/rohitmeshram76)
+[![Twitter Follow](https://img.shields.io/twitter/follow/rohitmeshram76?style=social)](https://twitter.com/rohitmeshram76)
